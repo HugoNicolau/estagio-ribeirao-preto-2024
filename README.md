@@ -1,5 +1,7 @@
 # estagio-ribeirao-preto-2024
 
+* Olhe o código em questoes.js e as respostas complementares no README.md
+
 # Respostas:
 1 - 78
 
